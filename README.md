@@ -1,4 +1,4 @@
-![Header](Path_to_your_header_image_or_gif)
+![Header](https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/1631/posts/34756/image/Twitter%20Header%20Template%20with%20Beautiful%20Illustrations%20copy.jpg)
 
 ### Greetings, Curious Minds! 🖖
 
@@ -13,7 +13,7 @@ My title? Batuhan Ayirtman. My realm? A fascinating intersection of mathematical
 
 ### 📈 My Tale in Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ayirtman)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌍 My Footprints on the Web
 
