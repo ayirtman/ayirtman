@@ -1,4 +1,4 @@
-<p align = "center">![Header](https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/1631/posts/34756/image/Twitter%20Header%20Template%20with%20Beautiful%20Illustrations%20copy.jpg)
+<p align = "center"><img src= "https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/1631/posts/34756/image/Twitter%20Header%20Template%20with%20Beautiful%20Illustrations%20copy.jpg"
   </p>
 ### Greetings, Curious Minds! 🖖
 
