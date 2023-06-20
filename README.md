@@ -1,5 +1,5 @@
-![Header](https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/1631/posts/34756/image/Twitter%20Header%20Template%20with%20Beautiful%20Illustrations%20copy.jpg)
-
+<p align = "center">![Header](https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/1631/posts/34756/image/Twitter%20Header%20Template%20with%20Beautiful%20Illustrations%20copy.jpg)
+  </p>
 ### Greetings, Curious Minds! 🖖
 
 My title? Batuhan Ayirtman. My realm? A fascinating intersection of mathematical engineering and embedded software. In this diverse field of numbers, I find joy in revealing hidden patterns and trends that may elude the conventional eye. My journey in software engineering took me on an exciting detour to the defense industry, where I breathed life into the code running 4x4 armored vehicles like "Yoruk", "Ejder Yalcin", "Ejder Toma", and "Ejder Kunter", all brought to life by Nurol Makina. I didn't stop there; I branched out into the bustling landscapes of gaming and e-commerce, donning the mantle of a Project Manager and Data Analyst Manager, catalyzing significant enhancements in key performance indicators.
